@@ -1,0 +1,375 @@
+@charset "utf-8";
+
+.head{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.zuo{
+    margin: 0.16rem 0.18rem;
+}
+.zuo1{
+    width: 2.16rem;
+    height: 0.75rem;
+}
+.you{
+    display: flex;
+    color: #999999;
+    font-size: 0.22rem;
+}
+.you1{
+    margin-top: 0.16rem;
+    margin-right: 0.18rem;
+}
+.tuu1{
+    height: 0.45rem;
+}
+.tuu2{
+    height: 0.33rem;
+}
+.lb{
+    width: 100%;
+    img{
+        width: 100%;
+    }
+}
+.fl{
+  width: 100%; 
+  height: 4.5rem; 
+}
+.fl2{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0.36rem;
+}
+.fl1{
+    height: 1.2rem;
+    text-align: center;
+    img{
+        height: 1.2rem;
+    }
+    p{
+        font-size: 0.28rem;
+        color: #333;
+        margin-top: 0.24rem;
+    }
+}
+.fl3{
+    margin-top: 1rem;
+    margin-bottom: 0.4rem;
+}
+
+.qw{
+    width: 100%;
+    margin-bottom: 0.36rem;
+}
+.bt{
+    display: flex;
+    margin: 0.32rem 0.17rem; 
+}
+.ls{
+    width: 0.05rem;
+    height: 0.42rem;
+    background: #2bb281;
+}
+.qwz{
+    font-size: 0.36rem;
+    color: #000;
+    margin-left: 0.17rem;
+}
+.gsj{
+    font-size: 0.24rem;
+    color: #999;
+    margin-left: 0.2rem;
+}
+.lbt1{
+    margin-left: 0.17rem;
+    img{
+        width: 7.14rem;
+    }
+}
+.lbd{
+    width: 1rem;
+    margin: 0 auto;
+    margin-top: 0.2rem;
+    display: flex;
+    margin-bottom: 0.36rem;
+}
+.dia{
+    width: 0.12rem;
+    height: 0.12rem;
+    border-radius: 50%;
+    background: #2bb281;
+    text-align: center;
+    margin-left: 0.1rem;
+}
+.diaa{
+    background: #666666;
+}
+.zxbf{
+    display: flex;
+}
+.zx1{
+    display: flex;
+}
+.zx1 img{
+    width: 0.36rem;
+    height: 0.36rem;
+}
+.zx1 span{
+    margin-left: 0.12rem;
+    font-size: 0.28rem;
+    color: #000;
+}
+.zx2{
+    margin-left: 0.4rem;
+}
+.zx3{
+    margin-left: 0.17rem;
+}
+.zxyy{
+    width: 100%;
+}
+.wbk{
+    width: 5.86rem;
+    height: 0.7rem;
+    line-height: 0.7rem;
+    border: 0.01rem solid #eaeaea;
+    border-radius: 0.05rem;
+    color: #cacaca;
+    font-size: 0.28rem;
+    margin: 0.25rem auto;
+}
+.wbk span{
+    margin-left: 0.16rem;
+}
+.wbb{
+    display: flex;
+    justify-content: space-between;
+}
+.m{
+    color: black;
+    margin-right: 0.2rem;
+}
+.an1{
+    width: 5.86rem;
+    height: 0.7rem;
+    line-height: 0.7rem;
+    border: 0.01rem solid #eaeaea;
+    border-radius: 0.05rem;
+    margin: 0.25rem auto;
+    background: #feb505;
+    color: white;
+    font-size: 0.36rem;
+    text-align:center;
+    margin-bottom: 0.36rem;
+}
+.hui1{
+    background: #f4f4f4;
+}
+.grjj{
+    margin-top: 0.4rem;
+    font-size: 0.36rem;
+    color: #000;
+}
+.grtu{
+    height: 1.4rem;
+    margin-bottom: 0.25rem;
+    margin-left: 0.15rem;
+}
+.grj{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.yx{
+    width: 1.2rem;
+    height: 0.32rem;
+    line-height: 0.32rem;
+    font-size: 0.24rem;
+    color: white;
+    background: #39c894;
+    margin-top: 0.25rem;
+    margin-bottom: 0.36rem;
+    margin-left: 0.24rem;
+    border-radius: 0.05rem;
+    text-align: center;
+}
+.wfk{
+    margin-left: 0.3rem;
+}
+.hyh{
+    width: 7.16rem;
+    height: 0.7rem;
+    line-height: 0.7rem;
+    border: 0.01rem solid rgb(239,239,239);
+    margin: 0 auto;
+    display: flex;
+    border-radius: 0.05rem;
+}
+.hyh1{
+    width: 3.58rem;
+    text-align: center;
+    color: #39c894;
+    font-size: 0.28rem;
+}
+.hyh2{
+    height: 0.28rem;
+}
+.hyh3{
+    border-right: 0.01rem solid rgb(239,239,239);
+}
+.tutu{
+    margin-left: 0.17rem;
+}
+.tu3{
+    width: 7.16rem;
+    height: 5.06rem;
+}
+.tu4{
+    width: 7.16rem;
+    margin-left: 0.17rem;
+    display: flex;
+    img{
+        width: 3.54rem;
+        height: 2.5rem;
+        margin-top: 0.05rem;
+    }
+    .yid{
+        margin-left: 0.05rem;
+    }
+}
+.hyh4{
+    margin: 0.36rem 0;
+    margin-left: 0.17rem;
+}
+.hy4{
+    margin-bottom: 0.36rem;
+}
+.tu5{
+    margin-left: 0.17rem;
+    img{
+        width: 7.14rem;
+    }
+}
+.cq{
+    display: flex;
+    margin-top: 0.22rem;
+}
+.cq span{
+    font-size: 0.28rem;
+}
+.nm{
+    width: 1rem;
+    height: 0.28rem;
+    line-height: 0.28rem;
+    font-size: 0.19rem;
+    text-align: center;
+    color: white;
+    border-radius: 0.05rem;
+    background: #39c894;
+    margin-left: 0.3rem;
+    margin-top: 0.02rem;
+}
+.jsb{
+    width: 100%;
+    margin-left: 0.17rem;
+    .js1{
+        display: flex;
+        img{
+            width: 1.9rem;
+            height: 1.45rem;
+        }
+        span{
+            font-size: 0.36rem;
+            color: #000;
+        }
+        .de{
+            margin-top: 0.22rem;
+        }
+        .ersh{
+            margin-left: 0.22rem;
+        }
+        .shijj{
+            display: flex;
+            margin-top: 0.22rem;
+            img{
+                width: 0.28rem;
+                height: 0.28rem;
+            }
+            span{
+                color: #999;
+                font-size: 0.28rem;
+            }
+            .liull{
+                width: 0.38rem;
+            }
+            .liul{
+                margin-left: 0.75rem;
+            }
+        }
+    }
+    hr{
+        margin-top: 0.31rem;
+        margin-bottom: 0.32rem;
+        background: ghostwhite;
+    }
+}
+
+.wzb{
+    width: 100%;
+    div{
+        font-size: 0.28rem;
+        color: #333;
+        margin: 0.36rem 0.265rem;
+    }
+    .wy{
+        margin-left: 0.7rem;
+    }
+}
+.fwr{
+    width: 100%;
+    font-size: 0.28rem;
+    color: #333;
+    text-align: center;
+    position: absolute;
+    .fw1{
+        margin:  0.3rem auto;
+        img{
+            height: 0.32rem;
+        }
+    }
+    .fw2{
+        display: flex;
+        margin-left: 0.5rem;
+        justify-content: flex-start;
+        list-style: none;
+        p{
+            color: #39c894;
+        }
+        li{
+            margin-left: 0.88rem;
+        }
+    }
+    .zd{
+        position: relative;
+        bottom: 1.55rem;
+        left: 3rem;
+    }
+    .zdt{
+        height: 0.94rem;
+    }
+}
+.floot{
+    margin-top: 1.6rem;
+}
+.floot1{
+    width: 100%;
+}
+.hui{
+    width: 100%;
+    height: 0.18rem;
+    background: rgb(244,244,244);
+}
